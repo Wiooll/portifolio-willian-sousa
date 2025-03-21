@@ -100,7 +100,7 @@ const Contact = () => {
               
               <div className="mt-8">
                 <p className="text-muted-foreground mb-4">
-                  Estou aberto a novas oportunidades para aplicar meu
+                  Estou aberto a novas oportunidades para ampliar meu
                   conhecimento e contribuir para equipes de desenvolvimento
                   dinâmicas e inovadoras!
                 </p>
@@ -112,7 +112,7 @@ const Contact = () => {
           </div>
 
           {/* Contact Form */}
-          <div className="animate-fade-in-right">
+          {/* <div className="animate-fade-in-right">
             <div className="glass-card rounded-xl p-6">
               <h3 className="text-xl font-medium mb-6">Envie uma Mensagem</h3>
               
@@ -200,7 +200,7 @@ const Contact = () => {
                 </form>
               )}
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>

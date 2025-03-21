@@ -100,9 +100,10 @@ const About = () => {
                   <p className="text-white font-medium">Certificações</p>
                   <ul className="text-sm text-muted-foreground list-disc pl-5 space-y-1">
                     <li>Introdução à Programação</li>
-                    <li>Excel Intermediário</li>
+                    <li>Curso Básico de Git e Github</li>
                     <li>Programa de cursos integrados: Suporte em TI do Google</li>
-                    <li>Fundamentos: dados, dados, em todos os lugares</li>
+                    <li>Visual Studio Code: Produtividade Absoluta</li>
+                    <li>Aprenda DOCKER do Zero ao Avançado</li>
                   </ul>
                 </div>
               </div>

@@ -54,7 +54,7 @@ const Hero = () => {
       }}
     >
       {/* Background Grid */}
-      <div className="absolute inset-0 bg-neon-grid bg-neon-grid opacity-10"></div>
+      <div className="absolute inset-0 bg-neon-grid opacity-10"></div>
       
       {/* Hero Content */}
       <div className="text-center z-10 max-w-4xl mx-auto space-y-6 animate-fade-in">
@@ -72,8 +72,8 @@ const Hero = () => {
         </div>
         
         <p className="text-muted-foreground text-lg max-w-xl mx-auto">
-          Desenvolvedor web front-end com conhecimentos em HTML, CSS, JavaScript, 
-          React.js, Python, Docker e Git.
+          Desenvolvedor web front-end Jr com conhecimentos em HTML, CSS, JavaScript,
+          React.js, Python, Docker e Git/GitHub.
         </p>
         
         <div className="flex space-x-4 justify-center mt-8">
