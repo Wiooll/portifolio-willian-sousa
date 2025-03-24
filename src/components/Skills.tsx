@@ -11,11 +11,11 @@ const skillCategories = [
     color: "text-neon-blue",
     shadow: "shadow-neon",
     skills: [
-      { name: "HTML5", level: 90 },
-      { name: "CSS3", level: 85 },
-      { name: "JavaScript", level: 80 },
-      { name: "React.js", level: 75 },
-      { name: "Tailwind CSS", level: 85 },
+      { name: "HTML5", level: 75 },
+      { name: "CSS3", level: 80 },
+      { name: "JavaScript", level: 65 },
+      { name: "React.js", level: 70 },
+      { name: "Tailwind CSS", level: 75 },
     ],
   },
   {
@@ -27,8 +27,8 @@ const skillCategories = [
     skills: [
       { name: "Python", level: 70 },
       { name: "Flask", level: 65 },
-      { name: "Django", level: 60 },
-      { name: "Node.js", level: 65 },
+      { name: "Django", level: 50 },
+      { name: "Node.js", level: 80 },
     ],
   },
   {
@@ -38,7 +38,7 @@ const skillCategories = [
     color: "text-neon-green",
     shadow: "shadow-neon-green",
     skills: [
-      { name: "SQLite", level: 75 },
+      { name: "SQLite", level: 70 },
     ],
   },
   {
@@ -50,7 +50,7 @@ const skillCategories = [
     skills: [
       { name: "Git", level: 80 },
       { name: "GitHub", level: 80 },
-      { name: "Docker", level: 65 },
+      { name: "Docker", level: 60 },
     ],
   },
   {
@@ -62,7 +62,7 @@ const skillCategories = [
     skills: [
       { name: "Trabalho em Equipe", level: 90 },
       { name: "Resolução de Problemas", level: 85 },
-      { name: "Comunicação", level: 85 },
+      { name: "Comunicação", level: 90 },
       { name: "Adaptabilidade", level: 90 },
     ],
   },
