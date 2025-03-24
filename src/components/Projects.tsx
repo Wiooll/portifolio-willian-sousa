@@ -40,7 +40,7 @@ const projects = [
     description: "Site responsivo para mostrar projetos e habilidades profissionais.",
     image: "/placeholder.svg",
     tags: ["HTML5", "CSS3", "JavaScript"],
-    demo: "#",
+    demo: "https://portifoliowillian.netlify.app/",
     github: "https://github.com/Wiooll",
     featured: true,
   },
