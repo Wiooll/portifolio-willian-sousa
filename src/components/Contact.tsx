@@ -40,8 +40,8 @@ const Contact = () => {
     {
       icon: Linkedin,
       label: "LinkedIn",
-      value: "williansousa-581160180",
-      href: "https://www.linkedin.com/in/williansousa-581160180",
+      value: "willian Sousa",
+      href: "https://www.linkedin.com/in/willian-sousa-581160180/",
     },
     {
       icon: Github,
